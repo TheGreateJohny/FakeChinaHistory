@@ -4,10 +4,67 @@
     "description": "",
     "tags": [""],
     "victim": 0,
-    "locations": [""],
+    "locations": ["", ""],
     "links": [
       {
         "url": "",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "",
+        "description": "web archive",
+        "type": "webArchive"
+      }
+    ]
+  },
+  {
+    "time": "2022-08-10",
+    "description": "浙江嘉兴年轻夫妻争吵，妻子将1岁的孩子扔到河中，孩子不幸去世",
+    "tags": ["kid", "murder"],
+    "victim": 0,
+    "locations": ["浙江", "嘉兴"],
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/HEEDFF6V055369ER.html?f=post2020_dy_recommends",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "",
+        "description": "web archive",
+        "type": "webArchive"
+      }
+    ]
+  },
+  {
+    "time": "2022-08-10",
+    "description": "四川一男子抱妻子从16楼跳下",
+    "tags": ["suicide"],
+    "victim": 2,
+    "locations": ["四川", "宜宾"],
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/HEE435OM0552B0TN.html?f=post2020_dy_recommends",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "",
+        "description": "web archive",
+        "type": "webArchive"
+      }
+    ]
+  },
+  {
+    "time": "2022-08-08",
+    "description": "8月8号成都天府广场领地中心有人跳楼",
+    "tags": ["suicide"],
+    "victim": 1,
+    "locations": ["四川","成都"],
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/HEAT1JT50553A8QQ.html?f=post1603_tab_news",
         "description": "官方新闻链接",
         "type": "official"
       },
@@ -42,7 +99,7 @@
     "description": "河南郸城警方：一男子持刀砍伤两人，已被刑事拘留，伤者无生命危险",
     "tags": ["social"],
     "victim": 2,
-    "locations": ["河南", "周口市", "郸城县"],
+    "locations": ["河南", "周口", "郸城"],
     "links": [
       {
         "url": "https://china.huanqiu.com/article/49AJJGzPQjn",
@@ -61,7 +118,7 @@
     "description": "河南汝州两警察被杀",
     "tags": ["police"],
     "victim": 2,
-    "locations": ["河南", "汝州市"],
+    "locations": ["河南", "汝州"],
     "links": [
       {
         "url": "https://www.163.com/dy/article/HEC0FJQ005533F8G.html",
@@ -80,7 +137,7 @@
     "description": "甘肃永昌一男子被围殴活埋致死 八名嫌犯均未成年",
     "tags": ["social", "teens"],
     "victim": 1,
-    "locations": ["甘肃", "永昌市"],
+    "locations": ["甘肃", "永昌"],
     "links": [
       {
         "url": "https://china.caixin.com/2022-08-09/101924199.html",
@@ -98,7 +155,7 @@
     "time": "2022-08-05",
     "description": "石家庄监狱3名狱警遇袭，2名已确定死亡",
     "victim": 2,
-    "locations": ["河北", "石家庄市"],
+    "locations": ["河北", "石家庄"],
     "tags": ["police"],
     "links": [
       {
