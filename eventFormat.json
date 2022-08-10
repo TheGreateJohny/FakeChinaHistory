@@ -1,7 +1,9 @@
 {
   "time": "string format",
   "description": "简单介绍",
-  "tags": ["group", "social"],
+  "locations": ["省", "市"],
+  "death": 0,
+  "tags": ["group", "social", "etc"],
   "links": [
     {
       "url": "http(s)://some-url.com",
