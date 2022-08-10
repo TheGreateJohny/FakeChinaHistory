@@ -1,0 +1,16 @@
+{
+  "time": "UTC time",
+  "description": "简单介绍",
+  "links": [
+    {
+      "url": "http(s)://some-url.com",
+      "description": "官方新闻链接",
+      "type": "official"
+    },
+    {
+      "url": "http(s)://some-url.com",
+      "description": "web archive",
+      "type": "web-archive"
+    }
+  ]
+}
