@@ -1,5 +1,5 @@
 {
-  "time": "UTC time",
+  "time": "string format",
   "description": "简单介绍",
   "tags": ["group", "social"],
   "links": [
