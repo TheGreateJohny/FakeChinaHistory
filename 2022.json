@@ -33,6 +33,23 @@
       }
     ]
   }, 
+  {
+    "time": "2022-08-09",
+    "description": "甘肃永昌一男子被围殴活埋致死 八名嫌犯均未成年",
+    "tags": ["social", "teens"],
+    "links": [
+      {
+        "url": "https://china.caixin.com/2022-08-09/101924199.html",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "http://web.archive.org/web/20220809131037/https://china.caixin.com/2022-08-09/101924199.html",
+        "description": "web archive",
+        "type": "web-archive"
+      }
+     ]
+  }
 ]
 
 
