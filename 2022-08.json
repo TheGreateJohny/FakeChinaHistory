@@ -40,7 +40,7 @@
   {
     "time": "2022-08-10",
     "description": "四川一男子抱妻子从16楼跳下",
-    "tags": ["suicide"],
+    "tags": ["suicide", "murder"],
     "victim": 2,
     "locations": ["四川", "宜宾"],
     "links": [
@@ -97,7 +97,7 @@
   {
     "time": "2022-08-09",
     "description": "河南郸城警方：一男子持刀砍伤两人，已被刑事拘留，伤者无生命危险",
-    "tags": ["social"],
+    "tags": ["social", "murder"],
     "victim": 2,
     "locations": ["河南", "周口", "郸城"],
     "links": [
@@ -116,7 +116,7 @@
   {
     "time": "2022-08-09",
     "description": "河南汝州两警察被杀",
-    "tags": ["police"],
+    "tags": ["police", "murder"],
     "victim": 2,
     "locations": ["河南", "汝州"],
     "links": [
@@ -135,7 +135,7 @@
   {
     "time": "2022-08-09",
     "description": "甘肃永昌一男子被围殴活埋致死 八名嫌犯均未成年",
-    "tags": ["social", "teens"],
+    "tags": ["social", "teens", "murder"],
     "victim": 1,
     "locations": ["甘肃", "永昌"],
     "links": [
@@ -156,7 +156,7 @@
     "description": "石家庄监狱3名狱警遇袭，2名已确定死亡",
     "victim": 2,
     "locations": ["河北", "石家庄"],
-    "tags": ["police"],
+    "tags": ["police", "murder"],
     "links": [
       {
         "url": "https://news.sina.com.cn/s/2022-08-05/doc-imizmscv5021926.shtml#/",
