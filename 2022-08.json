@@ -19,6 +19,25 @@
     ]
   },
   {
+    "time": "2022-08-09",
+    "description": "浙江建德一男子疑似入室抢劫杀害一名孕妇",
+    "tags": ["murder"],
+    "victim": 1,
+    "locations": ["浙江", "建德"],
+    "links": [
+      {
+        "url": "https://www.163.com/dy/article/HEC8PHCT0553DIAF.html",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "http://web.archive.org/web/20220811162827/https://www.163.com/dy/article/HEC8PHCT0553DIAF.html",
+        "description": "web archive",
+        "type": "webArchive"
+      }
+    ]
+  },
+  {
     "time": "2022-08-10",
     "description": "浙江嘉兴年轻夫妻争吵，妻子将1岁的孩子扔到河中，孩子不幸去世",
     "tags": ["kid", "murder"],
