@@ -19,6 +19,25 @@
     ]
   },
   {
+    "time": "2022-08-25",
+    "description": "我国器官移植'龙抬头'：量质双升",
+    "tags": [""],
+    "victim": 0,
+    "locations": ["", ""],
+    "links": [
+      {
+        "url": "https://www.sohu.com/a/244433706_464387",
+        "description": "官方新闻链接",
+        "type": "official"
+      },
+      {
+        "url": "https://web.archive.org/web/20220825171733/https://www.sohu.com/a/244433706_464387",
+        "description": "web archive",
+        "type": "webArchive"
+      }
+    ]
+  },
+  {
     "time": "2022-08-09",
     "description": "浙江建德一男子疑似入室抢劫杀害一名孕妇",
     "tags": ["murder"],
